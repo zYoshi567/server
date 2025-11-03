@@ -1,0 +1,78 @@
+[03:14:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[03:14:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[03:14:37] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:14:39] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[03:14:44] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 4419ms.
+[03:14:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[03:14:44] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - SetHome (6.2.3), SkinsRestorer (15.8.2), ViaBackwards (5.4.1), ViaVersion (5.4.1)
+[03:14:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:14:55] [ServerMain/INFO]: Loaded 1290 recipes
+[03:14:55] [ServerMain/INFO]: Loaded 1399 advancements
+[03:14:56] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:14:56] [Server thread/INFO]: Loading properties
+[03:14:56] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[03:14:56] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:14:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:14:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:14:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[03:14:59] [Server thread/INFO]: Default game type: SURVIVAL
+[03:14:59] [Server thread/INFO]: Generating keypair
+[03:14:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:14:59] [Server thread/INFO]: Using epoll channel type
+[03:14:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:14:59] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[03:15:01] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[03:15:01] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[03:15:04] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[03:15:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[03:15:07] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[03:15:07] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[03:15:10] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.1
+[03:15:10] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[03:15:10] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.2
+[03:15:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:15:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.2
+[03:15:12] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[03:15:14] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:15:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:15:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:15:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:15:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:15:14] [Server thread/INFO]: Preparing level "world"
+[03:15:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:15:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:15:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:15:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:15:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:15:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:15:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:15:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.2
+[03:15:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: cf773a3
+[03:15:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:15:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:15:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:15:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:15:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:15:18] [Server thread/INFO]: Time elapsed: 2462 ms
+[03:15:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:15:19] [Server thread/INFO]: Time elapsed: 430 ms
+[03:15:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:15:19] [Server thread/INFO]: Time elapsed: 513 ms
+[03:15:19] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[03:15:19] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[03:15:19] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.1
+[03:15:19] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[03:15:20] [Server thread/INFO]: [spark] Starting background profiler...
+[03:15:21] [Server thread/INFO]: Done preparing level "world" (6.535s)
+[03:15:21] [Server thread/INFO]: Running delayed init tasks
+[03:15:21] [Server thread/INFO]: Done (46.988s)! For help, type "help"
+[03:15:21] [Server thread/INFO]: Timings Reset
+[03:15:21] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[03:15:21] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.5.1, you're on: 5.4.1
+[03:15:27] [User Authenticator #0/INFO]: UUID of player zYsh_ is 75a3a0cd-bbb0-309d-8962-1ceaec6d50e0
+[03:15:29] [Server thread/INFO]: zYsh_ joined the game
+[03:15:30] [Server thread/INFO]: zYsh_[/127.35.213.184:56397] logged in with entity id 111 at ([world]-19.170352214010588, 76.0, -25.31393500657767)
+[03:18:49] [Server thread/INFO]: Villager Villager['Villager'/384, uuid='54baa815-497d-464b-b1a2-95492d61d494', l='ServerLevel[world]', x=-43.68, y=63.05, z=189.42, cpos=[-3, 11], tl=24606, v=true] died, message: 'Villager drowned'
+[03:23:34] [Server thread/INFO]: zYsh_ lost connection: Disconnected
+[03:23:35] [Server thread/INFO]: zYsh_ left the game
